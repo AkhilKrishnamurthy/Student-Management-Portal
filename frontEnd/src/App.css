@@ -1,0 +1,33 @@
+ .wrapper {
+        width: 100%;
+        background-color: #03061C;
+        height: 1000px;
+        color: white;
+    }   
+    
+    .form {
+        padding-top: 200px;
+        padding-left: 200px;
+       
+    }
+    button { margin-top: 20px;
+        margin-left: 15px;
+    }
+table {
+    border: 1px solid white;
+    width: 70%;
+    margin-right: 40px;
+}
+.homeForm {
+    width: 50%;
+    margin-left: 200px;
+}
+.center-block {
+    margin-left: 190px;
+}
+.userReportTable {
+    width: 90%;
+}
+.deleteSubmit {
+    color: black;
+}
